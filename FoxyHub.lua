@@ -1,7 +1,7 @@
 local Rayfield = loadstring(game:HttpGet('https://raw.githubusercontent.com/Saqxzzz/Saqxzzz/main/Script.lua'))()
 
 local Window = Rayfield:CreateWindow({
-   Name = "🦊Counter Blox Script🦊",
+   Name = "🦊Counter Blox Script (made by Saqxzz)🦊",
    LoadingTitle = "Foxy Hub",
    LoadingSubtitle = "by Saqxzz",
    ConfigurationSaving = {
